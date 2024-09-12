@@ -17,3 +17,16 @@ img {
     height: 200px;
     width: 300px;
 }
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.Texte {
+    border-radius: 25px;
+}
+
